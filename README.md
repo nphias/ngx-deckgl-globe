@@ -1,7 +1,7 @@
 # ngx-deckgl-globe
 A starter kit for typescript globe UI experimenters with deck.gl
 
-<img width="852" alt="image" src="https://user-images.githubusercontent.com/17417820/216807410-c7c5990b-637d-4352-99a4-fd1e46ddb941.png">
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/17417820/216807410-c7c5990b-637d-4352-99a4-fd1e46ddb941.png">
 
 The template is to help others start with deck.gl, angular and the globeview.
 
